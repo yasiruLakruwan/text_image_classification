@@ -1,1 +1,0 @@
-# text_image_classification
